@@ -1,5 +1,6 @@
 # CS305
 SNHU Software Security 22EW3
+
 Shaun Ryan
 
 ## Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
